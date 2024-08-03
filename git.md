@@ -3,8 +3,8 @@
 - `git config -l` : view current config
 - `git config -l [--scope] [option_name] [value]`: 
   + scope:  
-    --system: all user
-    --global: relevant repos
+    --system: all user  
+    --global: relevant repos  
     --local: relevant current repo
 - `git status`: show repo status, different 3 tree (Head, Index, Working directory)
 - `git log`: show history commits
